@@ -26,5 +26,4 @@ The purpose/goal of this project is to:
 - Develop better coding habits through experience
 
 ## 🚀 How to Run
-1. Install .exe from https://jupresson.itch.io/crystal-cave
-2. Doupble click .exe to run the game.
+1. Check https://jupresson.itch.io/crystalcave or Releases
